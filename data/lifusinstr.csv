@@ -1,0 +1,62 @@
+Dấu thời gian,ASSESSMENT DATE,TRAINEE RANK,FLEET,TYPE OF TRAINING ,LIFUS PHASE ,INSTRUCTOR ROLE ,"2. OVERALL ASSESSMENT EXPERIENCE 
+Please evaluate the overall quality of the assessment based on your experience.
+LOW = Not effective / not representative of line operations / significant gaps identified
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Operational Readiness]","2. OVERALL ASSESSMENT EXPERIENCE 
+Please evaluate the overall quality of the assessment based on your experience.
+LOW = Not effective / not representative of line operations / significant gaps identified
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Line Exposure]","2. OVERALL ASSESSMENT EXPERIENCE 
+Please evaluate the overall quality of the assessment based on your experience.
+LOW = Not effective / not representative of line operations / significant gaps identified
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Training Adaptability]","2. OVERALL ASSESSMENT EXPERIENCE 
+Please evaluate the overall quality of the assessment based on your experience.
+LOW = Not effective / not representative of line operations / significant gaps identified
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Workload Management (Training Context)]","2. OVERALL ASSESSMENT EXPERIENCE 
+Please evaluate the overall quality of the assessment based on your experience.
+LOW = Not effective / not representative of line operations / significant gaps identified
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Training Supervision]","2. OVERALL ASSESSMENT EXPERIENCE 
+Please evaluate the overall quality of the assessment based on your experience.
+LOW = Not effective / not representative of line operations / significant gaps identified
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Line Instructional Quality]","2. OVERALL ASSESSMENT EXPERIENCE 
+Please evaluate the overall quality of the assessment based on your experience.
+LOW = Not effective / not representative of line operations / significant gaps identified
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Line TEM Training Effectiveness]","2. OVERALL ASSESSMENT EXPERIENCE 
+Please evaluate the overall quality of the assessment based on your experience.
+LOW = Not effective / not representative of line operations / significant gaps identified
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Effectiveness]"
+12/05/2026 16:03:48,12/05/2026,LSC,A321,FO LIFUS,PHASE TWO,LSC,MED,MED,HIGH,MED,HIGH,HIGH,HIGH,HIGH
+20/05/2026 21:36:55,20/05/2026,FO,A321,FO LIFUS,PHASE ONE,FI,MED,MED,MED,MED,MED,MED,MED,MED
+21/05/2026 23:06:52,21/05/2026,FO,A321,FO LIFUS,N/A,FI,MED,MED,MED,MED,MED,MED,MED,MED
+24/05/2026 7:17:42,24/05/2026,CAPTAIN,A321,CAPTAIN LIFUS,PHASE ONE,FI,MED,MED,MED,MED,MED,MED,MED,MED
+26/05/2026 15:52:53,26/05/2026,FO,A321,FO LIFUS,PHASE TWO,FI,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH
+26/05/2026 15:53:44,26/05/2026,FO,A321,FO LIFUS,PHASE TWO,FI,HIGH,HIGH,HIGH,MED,HIGH,HIGH,HIGH,HIGH
+27/05/2026 15:45:19,26/05/2026,FI,A321,FO LIFUS,PHASE TWO,FI,MED,MED,HIGH,MED,MED,MED,MED,MED
+28/05/2026 10:10:50,28/05/2026,FO,A321,FO LIFUS,N/A,FI,MED,MED,MED,MED,MED,MED,MED,MED
+03/06/2026 17:01:01,05/05/2026,LSC,A321,REQUALIFICATION,N/A,LSC,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH
+07/06/2026 16:48:13,07/06/2026,CAPTAIN,A321,AOC LIFUS,PHASE ONE,FI,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH
+07/06/2026 20:08:54,07/06/2026,FO,A321,FO LIFUS,PHASE TWO,FI,MED,MED,HIGH,HIGH,MED,MED,MED,MED
+10/06/2026 12:57:31,10/06/2026,FO,A321,FO LIFUS,PHASE TWO,FI,MED,MED,MED,MED,MED,MED,MED,MED
+12/06/2026 17:51:57,12/06/2026,FO,A321,FO LIFUS,N/A,FI,MED,MED,HIGH,MED,MED,MED,MED,MED
+19/06/2026 22:20:23,12/06/2026,FI,A321,INST LIFUS,N/A,FI,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH
+19/06/2026 22:21:34,13/06/2026,CAPTAIN,A321,CAPTAIN LIFUS,PHASE TWO,FI,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH
+19/06/2026 23:04:06,19/06/2026,CAPTAIN,A321,CAPTAIN LIFUS,PHASE TWO,FI,MED,HIGH,HIGH,MED,HIGH,HIGH,MED,HIGH
+20/06/2026 23:31:12,20/06/2026,FO,A321,FO LIFUS,PHASE ONE,FI,MED,MED,MED,MED,MED,MED,MED,MED
+20/06/2026 23:32:23,12/06/2026,FI,A321,INST LIFUS,PHASE TWO,FI,HIGH,HIGH,HIGH,HIGH,HIGH,MED,HIGH,HIGH
+23/06/2026 0:29:25,22/06/2026,CAPTAIN,A321,CAPTAIN LIFUS,PHASE TWO,FI,MED,MED,MED,MED,MED,MED,MED,MED
+23/06/2026 10:23:10,23/06/2026,FO,A321,FO LIFUS,PHASE ONE,FI,LOW,LOW,MED,MED,MED,MED,MED,MED
+23/06/2026 14:29:32,23/06/2026,FO,A321,FO LIFUS,PHASE TWO,FI,HIGH,MED,HIGH,MED,MED,MED,MED,HIGH
+28/06/2026 17:44:27,28/06/2026,CAPTAIN,A321,CAPTAIN LIFUS,PHASE TWO,FI,MED,MED,MED,MED,MED,MED,MED,MED
+28/06/2026 20:58:27,28/06/2026,FO,A321,FO LIFUS,PHASE TWO,FI,MED,MED,MED,MED,MED,MED,MED,MED
+01/07/2026 7:19:51,28/06/2026,CAPTAIN,A321,CAPTAIN LIFUS,PHASE TWO,FI,MED,MED,MED,MED,MED,MED,MED,MED
+04/07/2026 17:50:42,03/07/2026,FO,A321,FO LIFUS,PHASE TWO,FI,MED,MED,MED,MED,MED,MED,MED,MED
+07/07/2026 20:38:03,28/06/2026,CAPTAIN,A350,FO LIFUS,PHASE ONE,FI,MED,MED,MED,MED,MED,MED,MED,MED
+10/07/2026 18:59:16,10/07/2026,FO,A321,FO LIFUS,PHASE ONE,FI,HIGH,MED,HIGH,HIGH,HIGH,HIGH,MED,HIGH
+10/07/2026 19:17:57,10/07/2026,FO,A321,FO LIFUS,PHASE ONE,FI,HIGH,MED,HIGH,HIGH,HIGH,HIGH,MED,HIGH
+10/07/2026 23:53:35,10/07/2026,FO,A321,FO LIFUS,PHASE ONE,FI,MED,MED,MED,MED,MED,MED,MED,MED

@@ -1,0 +1,144 @@
+Dấu thời gian,1. EVALUATION SESSION DETAILS,DATE,SIM REGISTRATION,MODULE,TRAINEE RANK,"EVALUATION INTEGRITY (Day 1 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Assessment reflected VNA operational standards]","EVALUATION INTEGRITY (Day 1 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Assessment criteria were clearly briefed and debriefed]","EVALUATION INTEGRITY (Day 1 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Competencies were evaluated fairly (not task-based)]","EVALUATION INTEGRITY (Day 1 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Scenarios enabled demonstration of overall competency]","EVALUATION INTEGRITY (Day 1 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Operational and environmental conditions were appropriate and]","EVALUATION INTEGRITY (Day 1 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Representative of real operations]","EVALUATION INTEGRITY (Day 1 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [The examiner allowed me to perform without unnecessary interventions]","EVALUATION COMMENTS:
+Was the evaluation realistic, fair, and representative of operational performance?
+If not, explain what reduced assessment validity in the next question.",Explain what reduced assessment validity:,DATE,SIM REGISTRATION:,MODULE:,TRAINEE RANK:,"TRAINING EFFECTIVENESS (Day 2 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Training effectively address any identified weaknesses identified during Day 1 evaluation]","TRAINING EFFECTIVENESS (Day 2 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Decision-making (PSD) and Situation Awareness (SAW) improved compared to Day 1]","TRAINING EFFECTIVENESS (Day 2 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Workload management (WLM) and CRM (COM/LTW) were effectively developed]","TRAINING EFFECTIVENESS (Day 2 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Automation and manual flight path management (FPA/FPM) improved]","TRAINING EFFECTIVENESS (Day 2 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Instructor used facilitation and coaching (not directing)]","TRAINING EFFECTIVENESS (Day 2 Only)
+LOW = Not effective / not operationally representative / significant gap
+MED = Partially effective / acceptable with improvement needed
+HIGH = Effective / operationally representative / meets expected standard [Debrief effectively linked performance gaps to operational improvement]","INSTRUCTION COMMENTS:
+What would have improved your learning during this session (e.g. scenario design, instructor method, level of challenge)?",TRAINING SYSTEM RISK:,PRIMARY THREAT,FREQUENCY,MANAGED,"4. TRAINEE REFLECTION:
+Did the SIM sessions improve your competencies for future similar operational situation(s)?","5. SUMMARY:
+What should VNA CHANGE to improve checking/training effectiveness and operational safety?"
+21/05/2026 17:06:01,TRAN DINH SONG NGUYEN10,05/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,06/05/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Scenario design,Technical data/FlySmart/Lido mPilot issue,OPERATIONAL,RARE,YES,"Yes, alot",
+21/05/2026 17:20:46,RECCURENT SIM,13/03/2026,VN-001,3A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,14/03/2026,VN-018,3B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Scenario design,Non,ENVIRONMENT,OCCASIONAL,YES,Yes,
+21/05/2026 17:23:40,REC SIM 3AB,03/11/2025,VN-018,3A,DPE,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,04/11/2025,VN-001,3B,DPE,MED,MED,MED,MED,HIGH,MED,Instructor should utilize deeper facilitation to help the crew bridge gaps in knowledge.,"Simulator limitation (faults, equipment, supplies)",TECHNICAL,OCCASIONAL,YES,Yes,Better instructor standardization as EBT level increases 
+21/05/2026 17:24:07,Recurrent 4AB,17/05/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,18/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,High workload improvement,,ENVIRONMENT,OCCASIONAL,YES,Yes,None
+21/05/2026 17:29:06,SIM REC 4AB,17/04/2026,VN-018,4A,DPE,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,18/04/2026,VN-018,4B,DPE,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,No recommendations for this session.,"Simulator limitation (faults, equipment, supplies)",TECHNICAL,OCCASIONAL,YES,Yes,Issue training notices on a regular basis to improve instructor and pilot knowledge 
+21/05/2026 17:34:38,4AB,08/05/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,09/05/2026,VN-001,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,None,"Scenario unrealistic, Unrealistic timing",TECHNICAL,RARE,YES,Yes,Yes
+21/05/2026 17:38:33,OPC,19/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,20/05/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"2 buồng sim đã xuống cấp nhiều' nếu được bảo dưỡng tốt hơnthì tổ bay sẽ có những kỳ huấn luyện định kỳ hiệu quá bà chất lượng hơn
+","Scenario unrealistic, Insufficient challenge, Simulator limitation (faults, equipment, supplies)",TECHNICAL,OCCASIONAL,YES,Yes,Better sim maintanance
+21/05/2026 17:38:36,SIM,08/05/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,09/05/2026,VN-001,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,None,"Scenario unrealistic, Unrealistic timing",TECHNICAL,RARE,YES,Yes,Yes
+21/05/2026 17:53:52,Sim 4AB,07/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,08/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nope,,TECHNICAL,RARE,YES,Yes,Nope
+21/05/2026 18:24:46,4AB,10/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,11/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nil,,TECHNICAL,RARE,YES,Yes,
+21/05/2026 19:05:41,Recurrent 4AB,13/05/2026,VN-018,4A,LSC,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,14/05/2026,VN-018,4B,LSC,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nil,"Simulator limitation (faults, equipment, supplies), Simulator scheduling",TECHNICAL,OCCASIONAL,YES,Yes,Improve facility quality
+21/05/2026 19:16:48,4b,09/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,10/05/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Scenario design, instructor method, level of challenge, encouragement of instructor.",,TECHNICAL,FREQUENT,YES,Yes,Effective so far
+21/05/2026 20:55:39,LPC,19/05/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,NO,,20/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,    Everything was well conducted and effective.,No training system risk identified.,ENVIRONMENT,OCCASIONAL,YES,"Yes, the SIM sessions were beneficial and relevant to line operations.",Current training and checking standards are effective.
+21/05/2026 21:37:36,Reccurence 4A,19/05/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,20/05/2026,VN-001,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Very good session overall, other review abnormal procedure, also understood of none technical skill between flight crew and cabin crew in case emergency and high risk of security ! Very challenge from instructor but the outcome is great ! Thanks to the instructor !","Simulator limitation (faults, equipment, supplies), The Sim vn001 need to fix alot of issues to improve training quality !",TECHNICAL,FREQUENT,YES,Yes for sure !,"Nil, all good for now"
+22/05/2026 5:37:19,Good ,11/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,12/05/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Scenario design and instructor method ,,TECHNICAL,RARE,YES,Yes ,
+22/05/2026 9:48:26,OPC Satisfactory,20/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,21/05/2026,VN-001,4B,FO,HIGH,MED,HIGH,MED,HIGH,HIGH,A little bit more coaching from instructor,More airport variations that closerly reflect operation,TECHNICAL,OCCASIONAL,YES,Yes,
+22/05/2026 10:59:55,VNA STANDARD SIM CHECK,13/04/2026,VN-001,3A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,14/04/2026,VN-018,3B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nil,,TECHNICAL,RARE,YES,Yes,None for now
+22/05/2026 11:44:51,4AB,03/05/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,NO,,04/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,No,,TECHNICAL,RARE,YES,Yes,No
+22/05/2026 12:32:49,Recurent simulator,17/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,18/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Instructor was helpful and carefully briefed for sim session,,ENVIRONMENT,FREQUENT,YES,Yes,
+22/05/2026 13:01:16,STOLBTSOV NIKOLAI,04/05/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,05/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,NIL,"Simulator limitation (faults, equipment, supplies)",TECHNICAL,RARE,YES,Yes,NIL
+22/05/2026 14:25:05,RECCURRENT ,03/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,04/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Instructor helped me in improving Situation Awareness , Decision Making and Manual Handling skills during the session ",,TECHNICAL,OCCASIONAL,YES,yes,Very effective for now
+22/05/2026 14:51:08,recurrent,07/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,08/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,nil,,TECHNICAL,RARE,YES,nil,nil
+22/05/2026 20:06:03,4A,03/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,04/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Level of challenge and handling, knowledge improved ",,ENVIRONMENT,RARE,YES,Yes absolutely,Its good for now 
+22/05/2026 20:43:29,SIM RECURRENT 4A LPC,20/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,21/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Instructor method, also scenario design",,TECHNICAL,RARE,YES,Yes it did improve me a lot,
+22/05/2026 21:31:35,3A,22/03/2026,VN-001,3A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,22/03/2026,VN-018,3B,FO,MED,HIGH,HIGH,HIGH,HIGH,MED,increase level of challange. ,"Scenario unrealistic, Insufficient challenge, Simulator limitation (faults, equipment, supplies)",TECHNICAL,OCCASIONAL,YES,yes,improve equipment and consistency of instructors 
+22/05/2026 21:45:03,tốt,22/10/2025,VN-018,2A,FO,HIGH,HIGH,HIGH,MED,HIGH,MED,HIGH,YES,,22/10/2026,VN-018,2B,FO,MED,HIGH,HIGH,HIGH,HIGH,HIGH, increase level of challenge,"Scenario unrealistic, Simulator limitation (faults, equipment, supplies), Simulator scheduling",ENVIRONMENT,OCCASIONAL,YES,yes,improve consistency of instructors 
+22/05/2026 21:50:38,very good,26/03/2026,VN-001,3A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,27/03/2026,VN-018,3B,FO,MED,MED,MED,MED,HIGH,MED,increase level of challenge ,"Scenario unrealistic, Insufficient challenge",ENVIRONMENT,OCCASIONAL,YES,yes,improve consistency of instructors 
+23/05/2026 10:16:20,4AB,21/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,22/05/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Scenario design to the next level. Understanding operation in long range flights especially the complexity of MEL items which could potentially have an impact on fuel consumption and flight level. Pilots need to foresee upcoming issues in order to co-operate effectively with ATC and companies,,TECHNICAL,FREQUENT,YES,Yes,Doing sim more frequently
+23/05/2026 12:06:57,"LPC,IR",21/05/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,22/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Excellent instructor. In depth explanation of operational situations and very thankful to the examiners and instructors for improving our level of ability in real life situations. ,,OPERATIONAL,OCCASIONAL,YES,Yes,"Nil. The training is very extensive, informative and motivates the trainee to learn. Excellent work from all the staff involved in putting 4AB session. Thank you."
+23/05/2026 15:57:15,N/A,20/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,21/05/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,N/A,Simulator scheduling,TECHNICAL,RARE,YES,Yes,N/A
+23/05/2026 23:03:39,Sim recurrent a320,21/05/2026,VN-018,4A,LSC,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,22/05/2026,VN-018,4B,LSC,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"- Support documents (for the LOFT) should match each other. For example, MEL items in the OFP and Tech Log should be consistent.
+- Reference documents for SIM in Library 2.11 REF-FCD SIM320 should be reviewed to identify which versions are current, and expired documents should be removed.",,ENVIRONMENT,FREQUENT,YES,Yes,
+24/05/2026 10:29:01,SATIFIED,31/03/2026,VN-001,3A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,31/03/2026,VN-018,3B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Instructor method is really helpful ,Technical data/FlySmart/Lido mPilot issue,TECHNICAL,RARE,YES,Yes,Nil
+24/05/2026 13:28:58,Sim recurrent ,22/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,22/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Improved everything,,SOP,FREQUENT,YES,Yes,No
+24/05/2026 16:29:42,SIM4AB,23/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,24/05/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Knowledge, Decision.",,TECHNICAL,RARE,YES,Yes,
+24/05/2026 22:59:33,A320/A321 RECURRENT - WINTER 2025 ,03/01/2026,VN-001,3A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,04/01/2026,VN-018,3B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Be more learning, and have more knowlegde",,TECHNICAL,OCCASIONAL,YES,Yes,
+25/05/2026 5:39:29,Good,23/05/2026,VN-001,4A,FO,MED,MED,MED,MED,MED,MED,MED,YES,,24/05/2026,VN-001,4B,FO,MED,MED,MED,MED,MED,MED,Nil,Nil,OPERATIONAL,FREQUENT,YES,Nil,Nil
+25/05/2026 8:19:15,A320/A321 RECURRENT WINTER 2025 (3A/B),14/04/2026,VN-001,3A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,MED,HIGH,YES,,15/04/2026,VN-018,3B,FO,HIGH,HIGH,HIGH,MED,HIGH,HIGH,Instructor method,,OPERATIONAL,RARE,YES,Yes,
+25/05/2026 9:00:11,Sim recurrent,21/05/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,22/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Scenario design,None,ENVIRONMENT,RARE,YES,Yes,None
+25/05/2026 9:58:57,Rec 4a,23/05/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,24/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,.,,ENVIRONMENT,RARE,YES,Yes,.
+25/05/2026 22:17:21,4AB,23/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,24/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nothing,"Simulator limitation (faults, equipment, supplies)",TECHNICAL,RARE,YES,Yes,No
+26/05/2026 14:33:58,REC SIM 4A,25/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,26/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Instructor have a good explanation and instruction throughout the training session. I can experience some scenario that help me to understand more about the procedure to consider to apply.,,TECHNICAL,RARE,YES,Yes,
+26/05/2026 18:17:08,recurrent training,20/05/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,21/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,nil,Simulator scheduling,OPERATIONAL,RARE,YES,yes it does,nil
+26/05/2026 22:55:05,OPC,17/03/2026,VN-018,3A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,18/03/2026,VN-018,3B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,All good,,TECHNICAL,RARE,YES,Yes,
+27/05/2026 12:39:52,Recurrent simulator,25/05/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,26/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Some briefing about decisin making, SAW, TEM,…",,ENVIRONMENT,RARE,YES,Yes,"Now, it’s OK"
+27/05/2026 19:17:34,A.320/A.321 RECURRENT,03/03/2026,VN-018,3A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,04/03/2026,VN-001,3B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Landing technique,No,TECHNICAL,OCCASIONAL,YES,Yes,No comment
+28/05/2026 8:38:53,Sim4AB,23/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,24/05/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Knowledge, decision and comunication.","Simulator limitation (faults, equipment, supplies)",TECHNICAL,RARE,YES,yes,none
+28/05/2026 15:56:41,Session 4A,28/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,28/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Scenario design,"Scenario unrealistic, Unrealistic timing",TECHNICAL,OCCASIONAL,YES,Yes,
+28/05/2026 16:27:57,FFS4A,28/05/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,28/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"scenario design, handling challenge, instrctor method",too cold in SIM,ATC,RARE,YES,yes,
+28/05/2026 16:31:49,FFS4A,27/05/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,28/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"scenario design, handling challenge, instrctor method","Technical data/FlySmart/Lido mPilot issue, cannot calculate in flight perfomence in flysmart( sim)",ATC,RARE,YES,yes,
+28/05/2026 20:51:50,SIM 4B,28/05/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,27/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,No,,TECHNICAL,RARE,YES,Yes,No command
+29/05/2026 23:22:08,4a,28/05/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,29/05/2026,VN-001,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,PDM WLM,,TECHNICAL,OCCASIONAL,YES,Yes,
+30/05/2026 5:56:28,Lpc,21/05/2026,VN-036,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,22/05/2026,VN-036,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Std call out and ops knowledge,,OPERATIONAL,FREQUENT,YES,Yes,
+30/05/2026 15:07:52,Sim B787 4AB,17/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,18/05/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Scenario design,"Simulator limitation (faults, equipment, supplies)",TECHNICAL,RARE,YES,Yes,No idea yet
+30/05/2026 21:56:17,4AB,05/05/2026,VN-001,4A,DPE,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,06/05/2026,VN-001,4B,DPE,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Scanning skill , keep studying",,TECHNICAL,OCCASIONAL,YES,Yes,
+30/05/2026 23:22:03,Sim,29/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,30/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,.,,TECHNICAL,RARE,YES,Yes,Nil
+31/05/2026 14:08:53,P,31/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,31/05/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nil,"Simulator limitation (faults, equipment, supplies)",TECHNICAL,RARE,YES,Yes,Nil
+01/06/2026 1:43:04,4AB,30/05/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,31/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nil,,OPERATIONAL,OCCASIONAL,YES,Yes,Nil
+01/06/2026 1:50:52,4A,30/05/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,31/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Instructor method,,ENVIRONMENT,RARE,YES,Yes,
+01/06/2026 4:12:11,4A,30/05/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,31/05/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Instructor method, level of challenge",,TECHNICAL,FREQUENT,YES,Yes,
+01/06/2026 8:39:53,4A,27/05/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,28/05/2026,VN-001,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Real scenarios from instructors gave us helpful and deep learn for every aspect. ,,OPERATIONAL,RARE,YES,Good,
+02/06/2026 10:45:15,P,28/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,29/05/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Scenario design,Technical data/FlySmart/Lido mPilot issue,OPERATIONAL,OCCASIONAL,YES,Yes,No
+03/06/2026 15:59:40,4AB LPC,01/06/2026,VN-036,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,02/06/2026,VN-036,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Study and pratice more,"Simulator limitation (faults, equipment, supplies)",TECHNICAL,RARE,YES,Yes,None
+04/06/2026 19:06:35,Proficient,23/05/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,24/05/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,N/a,,TECHNICAL,OCCASIONAL,YES,Yes,N/a
+05/06/2026 6:03:49,Sim,01/06/2026,VN-018,4A,DPE,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,02/06/2026,VN-018,4B,FI,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nil,,TECHNICAL,RARE,YES,"Yes
+","Nil
+"
+08/06/2026 14:50:22,Flight control sys.,07/06/2026,VN-018,4A,DPE,HIGH,HIGH,HIGH,MED,HIGH,HIGH,HIGH,YES,,08/06/2026,VN-018,4B,DPE,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,More clearly about Bomb on board . ,Simulator scheduling,ENVIRONMENT,FREQUENT,YES,Yes,
+09/06/2026 9:56:23,Sim A320,06/06/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,07/06/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Scenario design
+Instructor method
+Level of challenge","320/321 differences (limitations, procedures,..)",OPERATIONAL,RARE,YES,Yes,
+09/06/2026 16:01:50,Sim4ab,06/06/2026,VN-026,4A,FO,MED,HIGH,MED,MED,HIGH,MED,HIGH,YES,,06/06/2026,VN-026,4B,FO,MED,HIGH,HIGH,HIGH,HIGH,HIGH,No,Scenario unrealistic,TECHNICAL,RARE,YES,Yes,
+11/06/2026 16:10:43,4ab summer,04/06/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,05/06/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,manual handling during final approach (cross wind 10-20kt) with ILS raw data with and without managed thrust. ,,ENVIRONMENT,OCCASIONAL,YES,yes,all good with me
+13/06/2026 1:46:31,4ab,06/06/2026,VN-036,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,07/06/2026,VN-036,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Na,"Simulator limitation (faults, equipment, supplies)",TECHNICAL,RARE,YES,Yes,Na
+13/06/2026 20:08:52,.,12/06/2026,VN-026,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,13/06/2026,VN-026,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,.,.,ENVIRONMENT,OCCASIONAL,YES,Y,.
+14/06/2026 12:51:02,4ab,11/06/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,12/06/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Improve skill and communication ,"Simulator limitation (faults, equipment, supplies)",OPERATIONAL,FREQUENT,YES,Yes,
+14/06/2026 12:55:09,Sim 4AB a320,11/06/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,12/06/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Instructor method,,ATC,RARE,YES,Yes,No
+16/06/2026 1:24:52,4A,12/06/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,13/06/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,NIL,"Simulator limitation (faults, equipment, supplies), Buồng sim VN001 quá cũ, dẫn đến một số task được thực hiện khá khó khăn.",OPERATIONAL,FREQUENT,YES,Yes,NIL
+17/06/2026 10:15:39,Sim4a,14/06/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,14/06/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"Knowledge, decision, improve my procedures",,TECHNICAL,FREQUENT,YES,"Yes , improve a lot ",
+17/06/2026 10:28:51,Sim recurrent,14/06/2026,VN-018,4A,LSC,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,15/06/2026,VN-001,4B,LSC,MED,HIGH,HIGH,MED,HIGH,MED,Nil,Simulator scheduling,ENVIRONMENT,OCCASIONAL,YES,Yes,Nil
+18/06/2026 12:52:48,Sim 4AB,12/06/2026,VN-026,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,13/06/2026,VN-026,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Scenario design,"Simulator limitation (faults, equipment, supplies)",TECHNICAL,OCCASIONAL,YES,Absolutely,Continue the good work VNA is doing
+20/06/2026 7:46:30,4B,19/06/2026,VN-001,4A,FI,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,20/06/2026,VN-001,4B,FI,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,The instructor method and his input was uplift the application of procedure ,,TECHNICAL,OCCASIONAL,YES,yes,Nil
+20/06/2026 18:53:57,4AB,17/06/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,18/06/2026,VN-001,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nothing ,"Simulator limitation (faults, equipment, supplies), Technical data/FlySmart/Lido mPilot issue",TECHNICAL,RARE,YES,Yes,Nothing 
+20/06/2026 21:42:09,4A,15/06/2026,VN-018,4A,LSC,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,16/06/2026,VN-001,4B,LSC,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,instructor method.,,TECHNICAL,RARE,YES,Yes,
+22/06/2026 13:22:33,A321 summer 4AB,20/06/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,21/06/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,No,Technical data/FlySmart/Lido mPilot issue,TECHNICAL,RARE,YES,Yes,N/A
+23/06/2026 4:37:45,FFS 4A,21/06/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,22/06/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nil,,TECHNICAL,FREQUENT,YES,Yes,
+25/06/2026 10:38:51,A320/321 Recurrent Simulator ,20/06/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,21/06/2026,VN-001,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,No suggestions,,OPERATIONAL,OCCASIONAL,YES,Yes,None
+27/06/2026 12:13:41,4AB,26/06/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,27/06/2026,VN-018,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,No,,TECHNICAL,OCCASIONAL,YES,Yes,No
+27/06/2026 18:35:57,good,25/06/2026,VN-018,4A,FO,MED,MED,MED,MED,MED,MED,MED,YES,,25/06/2026,VN-026,4B,FO,MED,MED,MED,MED,MED,MED,scenario design,Scenario unrealistic,ENVIRONMENT,OCCASIONAL,YES,tes,
+30/06/2026 7:53:58,"OPC, LVO, EO, Multi failure",28/06/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,29/06/2026,VN-018,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nil,,OPERATIONAL,RARE,YES,Yes,Nil
+05/07/2026 0:29:22,Recurrent,01/07/2026,VN-036,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,02/07/2026,VN-036,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,N/A,,TECHNICAL,OCCASIONAL,YES,Yes,N/A
+06/07/2026 9:26:42,SIM REC TRAINING,04/07/2026,VN-001,4A,DPE,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,05/07/2026,VN-001,4B,DPE,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,good training method,nil,ENVIRONMENT,FREQUENT,YES,yes,nil
+06/07/2026 10:22:57,Sim rec ,02/07/2026,VN-036,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,03/07/2026,VN-036,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,No,,OPERATIONAL,OCCASIONAL,YES,Yes. Instructor give me so much scenarios so i can have more experirence.,
+06/07/2026 12:10:25,4ab,04/07/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,05/07/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Nil,,TECHNICAL,OCCASIONAL,YES,Yes,Nil
+08/07/2026 20:18:01,"Informative, helpful ",06/07/2026,VN-018,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,06/07/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,The session provided a clear and sufficient overview of the topic,,TECHNICAL,RARE,YES,Yes,None
+08/07/2026 21:37:31,SUMMER 2026 - FFS 4A,06/07/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,07/07/2026,VN-001,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"None, all good",,OPERATIONAL,OCCASIONAL,YES,"Yes, by a lot",None for now
+09/07/2026 12:40:29,4A/B,08/07/2026,VN-001,4A,DPE,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,09/07/2026,VN-001,4B,DPE,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,"everything was clear, Instructor was perfect!",Simulator scheduling,TECHNICAL,RARE,YES,"yes, absolutely",High level
+10/07/2026 9:55:17,Proficient,03/07/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,04/07/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,N/A,,OPERATIONAL,OCCASIONAL,YES,Yes,
