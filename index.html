@@ -199,7 +199,7 @@
     <div>
       <p class="eyebrow">Vietnam Airlines &#183; Flight Crew Division 919 &#183; Training Department</p>
       <h1>Training Feedback Report</h1>
-      <p class="sub">Assessment-quality ratings from all six feedback forms &#8212; a name-sanitized snapshot exported 17 Jul 2026.
+      <p class="sub">Assessment-quality ratings from all six feedback forms &#8212; a name-sanitized snapshot exported <span data-built-en>17 Jul 2026</span>.
         <span class="vt">B&#225;o c&#225;o ph&#7843;n h&#7891;i hu&#7845;n luy&#7879;n &#8212; b&#7843;n tr&#237;ch xu&#7845;t d&#7919; li&#7879;u &#273;&#227; &#7849;n danh t&#237;nh.</span></p>
     </div>
     <div class="syncbox">
@@ -266,8 +266,8 @@
 
   <footer>
     <h4>Source &#183; Ngu&#7891;n d&#7919; li&#7879;u</h4>
-    <p>A name-sanitized snapshot of the six FCD 919 training-feedback forms (2026 FORM), exported 17 Jul 2026. The examiner and instructor name columns are removed before publishing; only ratings, categories and free-text comments remain. Use <b>Refresh</b> to re-read the committed data.</p>
-    <p class="vt">B&#7843;n tr&#237;ch xu&#7845;t &#273;&#227; &#7849;n danh t&#237;nh t&#7915; s&#225;u bi&#7875;u m&#7851;u ph&#7843;n h&#7891;i FCD 919 (2026 FORM), xu&#7845;t ng&#224;y 17/07/2026. C&#225;c c&#7897;t t&#234;n gi&#225;m kh&#7843;o v&#224; gi&#225;o vi&#234;n &#273;&#227; &#273;&#432;&#7907;c lo&#7841;i b&#7887; tr&#432;&#7899;c khi c&#244;ng b&#7889;.</p>
+    <p>A name-sanitized snapshot of the six FCD 919 training-feedback forms (2026 FORM), exported <span data-built-en>17 Jul 2026</span>. The examiner and instructor name columns are removed before publishing; only ratings, categories and free-text comments remain. Use <b>Refresh</b> to re-read the committed data.</p>
+    <p class="vt">B&#7843;n tr&#237;ch xu&#7845;t &#273;&#227; &#7849;n danh t&#237;nh t&#7915; s&#225;u bi&#7875;u m&#7851;u ph&#7843;n h&#7891;i FCD 919 (2026 FORM), xu&#7845;t ng&#224;y <span data-built-vn>17/07/2026</span>. C&#225;c c&#7897;t t&#234;n gi&#225;m kh&#7843;o v&#224; gi&#225;o vi&#234;n &#273;&#227; &#273;&#432;&#7907;c lo&#7841;i b&#7887; tr&#432;&#7899;c khi c&#244;ng b&#7889;.</p>
   </footer>
 </div>
 
@@ -641,7 +641,23 @@
     document.documentElement.dataset.theme = dark ? "light" : "dark";
   });
 
+  // Show the date the data was last built (written by update_data.py into data/updated.txt),
+  // so the masthead/footer never claim a stale export date after a nightly refresh.
+  const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  async function showBuiltDate() {
+    try {
+      const r = await fetch("data/updated.txt", { cache: "no-store" });
+      if (!r.ok) return;
+      const m = (await r.text()).trim().match(/^(\d{4})-(\d{2})-(\d{2})/);
+      if (!m) return;
+      const [, y, mo, d] = m;
+      document.querySelectorAll("[data-built-en]").forEach(el => el.textContent = `${+d} ${MONTHS[+mo-1]} ${y}`);
+      document.querySelectorAll("[data-built-vn]").forEach(el => el.textContent = `${d}/${mo}/${y}`);
+    } catch (e) { /* keep the fallback text already in the page */ }
+  }
+
   load();
+  showBuiltDate();
   // Snapshot data, so no auto-refresh timer; the Refresh button re-reads the committed files.
 })();
 </script>

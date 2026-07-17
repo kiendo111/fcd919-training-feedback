@@ -22,6 +22,7 @@ import os
 import re
 import sys
 import urllib.request
+from datetime import datetime, timedelta, timezone
 
 WORKBOOK_ID = "1Jh0yDNt-w8TeVDgd-qfS_ApOtVRHQGoTh92Wti832PQ"
 
@@ -81,6 +82,11 @@ def main() -> int:
     if failed:
         print(f"\n{len(failed)} tab(s) failed: {[f for f, _ in failed]}", file=sys.stderr)
         return 1
+    # Stamp the build date (Vietnam time) so the report shows when the data was last fetched.
+    built = datetime.now(timezone(timedelta(hours=7))).date().isoformat()
+    with open(os.path.join(DATA_DIR, "updated.txt"), "w", encoding="utf-8") as fh:
+        fh.write(built + "\n")
+    print(f"  {'updated.txt':18} {built}")
     print(f"\nWrote {len(TABS)} sanitized CSV files to {DATA_DIR}")
     return 0
 
