@@ -12,6 +12,9 @@ published as a single static page. Presentation only — no interpretation.
 - **`.github/workflows/nightly.yml`** — runs `update_data.py` nightly (01:00 GMT+7) and
   commits the refreshed CSVs, so the page picks up new responses. Can also be run by hand
   from the Actions tab.
+- **`serve.sh`** — preview locally (`./serve.sh`, then open http://localhost:8899/).
+- **`mirror-setup.md`** — the fallback live-mirror path, if the source workbook is ever
+  locked down and the credential-free nightly fetch stops working.
 
 ## Refreshing by hand
 
