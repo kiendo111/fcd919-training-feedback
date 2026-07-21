@@ -21,7 +21,7 @@ LOW = Not effective / not operationally representative / significant gap
 MED = Partially effective / acceptable with improvement needed
 HIGH = Effective / operationally representative / meets expected standard [The examiner allowed me to perform without unnecessary interventions]","EVALUATION COMMENTS:
 Was the evaluation realistic, fair, and representative of operational performance?
-If not, explain what reduced assessment validity in the next question.",Explain what reduced assessment validity:,DATE,SIM REGISTRATION:,MODULE:,TRAINEE RANK:,"TRAINING EFFECTIVENESS (Day 2 Only)
+If not, explain what reduced assessment validity in the next question.","P,",DATE,SIM REGISTRATION:,MODULE:,TRAINEE RANK:,"TRAINING EFFECTIVENESS (Day 2 Only)
 LOW = Not effective / not operationally representative / significant gap
 MED = Partially effective / acceptable with improvement needed
 HIGH = Effective / operationally representative / meets expected standard [Training effectively address any identified weaknesses identified during Day 1 evaluation]","TRAINING EFFECTIVENESS (Day 2 Only)
@@ -148,3 +148,5 @@ Level of challenge","320/321 differences (limitations, procedures,..)",OPERATION
 18/07/2026 12:59:10,Fwd cargo door open,13/07/2026,VN-018,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,14/07/2026,VN-001,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,No,,ENVIRONMENT,RARE,YES,Yes,
 20/07/2026 11:05:00,SIM 4AB,14/07/2026,VN-026,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,15/07/2026,VN-026,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,Good Training ,,ATC,RARE,YES,Yes,Maintaining to improve better 
 20/07/2026 13:42:50,Recurrent training ,18/07/2026,VN-001,4A,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,Everything is good and professional,19/07/2026,VN-001,4B,CAPTAIN,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,everything is good,,TECHNICAL,RARE,YES,Yes thank you,
+21/07/2026 15:41:29,FFS 4A,20/07/2026,VN-001,4A,FI,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,21/07/2026,VN-001,4B,FI,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,N/A,,TECHNICAL,RARE,YES,Yes,N/A
+21/07/2026 16:06:10,4a,09/07/2026,VN-001,4A,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,YES,,10/07/2026,VN-001,4B,FO,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,session was adequate,"Simulator limitation (faults, equipment, supplies)",TECHNICAL,FREQUENT,YES,yes,
